@@ -1,3 +1,4 @@
+import '../lib/absoluteUrl';
 import './models/startup';
 
 /**
